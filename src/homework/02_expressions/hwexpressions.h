@@ -1,8 +1,8 @@
-﻿//example
-int add_numbers(int num1, int num2);
+﻿int get_sales_tax_amount(int meal_amount);
 
-//write function prototype here
+double get_tip_amount(int meal_amount, double tip_rate);
 
+int total(int get_sales_tax_amount, double get_tip_amount); 
 
 
 
